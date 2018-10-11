@@ -1,0 +1,13 @@
+c:\projects\hbase-phoenix\obj\Debug\hbase-phoenix.csprojResolveAssemblyReference.cache
+c:\projects\hbase-phoenix\obj\Debug\hbase-phoenix.csproj.CoreCompileInputs.cache
+c:\projects\hbase-phoenix\bin\Debug\hbase-phoenix.exe.config
+c:\projects\hbase-phoenix\bin\Debug\hbase-phoenix.exe
+c:\projects\hbase-phoenix\bin\Debug\hbase-phoenix.pdb
+c:\projects\hbase-phoenix\bin\Debug\Apache.Phoenix.dll
+c:\projects\hbase-phoenix\bin\Debug\Google.Protobuf.dll
+c:\projects\hbase-phoenix\bin\Debug\PhoenixSharp.dll
+c:\projects\hbase-phoenix\bin\Debug\PhoenixSharp.Interfaces.dll
+c:\projects\hbase-phoenix\bin\Debug\Google.Protobuf.xml
+c:\projects\hbase-phoenix\obj\Debug\hbase-phoenix.csproj.CopyComplete
+c:\projects\hbase-phoenix\obj\Debug\hbase-phoenix.exe
+c:\projects\hbase-phoenix\obj\Debug\hbase-phoenix.pdb
